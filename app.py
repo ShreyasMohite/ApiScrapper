@@ -86,7 +86,7 @@ class jsonScrapper:
 
 
 
-#https://api.covid19api.com/summary
+
 
 
 
